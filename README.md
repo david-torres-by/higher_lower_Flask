@@ -1,4 +1,4 @@
-# higher_lower_Flask
+# Higher Lower Game using Flask
 Game about guessing a number from 0-9 using Flask!
 
 ## Concepts Applied 🧐:
